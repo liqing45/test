@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<triangle>
+    <side>
+        <side1>3</side1>
+        <side2>3</side2>
+        <side3>3</side3>
+        <except>等边三角形</except>
+    </side>
+
+    <side>
+        <side1>3</side1>
+        <side2>3</side2>
+        <side3>4</side3>
+        <except>等腰三角形</except>
+    </side>
+
+    <side>
+        <side1>3</side1>
+        <side2>4</side2>
+        <side3>4</side3>
+        <except>等腰三角形</except>
+    </side>
+
+    <side>
+        <side1>3</side1>
+        <side2>4</side2>
+        <side3>3</side3>
+        <except>等腰三角形</except>
+    </side>
+
+    <side>
+        <side1>3</side1>
+        <side2>4</side2>
+        <side3>6</side3>
+        <except>普通三角形</except>
+    </side>
+
+    <side>
+        <side1>2</side1>
+        <side2>3</side2>
+        <side3>5</side3>
+        <except>不是三角形</except>
+    </side>
+
+    <side>
+        <side1>2</side1>
+        <side2>5</side2>
+        <side3>3</side3>
+        <except>不是三角形</except>
+    </side>
+
+    <side>
+        <side1>5</side1>
+        <side2>2</side2>
+        <side3>3</side3>
+        <except>不是三角形</except>
+    </side>
+
+
+
+
+
+</triangle>
+

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "side1": 3,
+      "side2": 3,
+      "side3": 3,
+      "except": "等边三角形"
+    },
+    {
+      "side1": 3,
+      "side2": 4,
+      "side3": 4,
+      "except": "等腰三角形"
+    },
+    {
+      "side1": 3,
+      "side2": 4,
+      "side3": 3,
+      "except": "等腰三角形"
+    },
+    {
+      "side1": 3,
+      "side2": 3,
+      "side3": 4,
+      "except": "等腰三角形"
+    },
+    {
+      "side1": 3,
+      "side2": 4,
+      "side3": 6,
+      "except": "普通三角形"
+    },
+    {
+      "side1": 2,
+      "side2": 3,
+      "side3": 5,
+      "except": "不是三角形"
+    },
+    {
+      "side1": 2,
+      "side2": 5,
+      "side3": 3,
+      "except": "不是三角形"
+    },
+    {
+      "side1": 5,
+      "side2": 2,
+      "side3": 3,
+      "except": "不是三角形"
+    }
+  ]
+}
